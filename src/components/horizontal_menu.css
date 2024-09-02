@@ -1,0 +1,47 @@
+.horizontal_menu_body{
+    display: flex;
+    justify-content: start;
+    gap: 50px;
+}
+
+
+.threelined_menu{
+    font-size: x-large;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.horizontal_menu_body input{
+   padding: 10px;
+  
+  
+
+}
+.horizontal_menu_body button{
+   padding: 10px;
+   
+}
+
+
+.logo_img{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_img img{
+    height: 80px;
+}
+
+
+.search_component{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 200px;
+}
