@@ -6,12 +6,15 @@
 .Main_content{
    display: grid;
    grid-template-columns: auto auto auto auto;
-   margin: 0px 300px 0px 0px;
+   grid-template-rows: auto auto auto;
+   
    justify-content: center;
    align-items: center;
+   overflow: scroll;
+   height: 90vh;
 }
 
 .Main_body{
     display: flex;
-    justify-content: space-around;
+    gap: 200px;
 }

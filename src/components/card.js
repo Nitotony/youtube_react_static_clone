@@ -10,7 +10,7 @@ const Card=(props)=>{
             <img src={img} alt="" />
           </div>
 
-          <h5 className="card-title">{title}</h5>
+          <h4 className="card-title">{title}</h4>
           <p>{creator}</p>
           <p>{time} years ago</p>
         </div>

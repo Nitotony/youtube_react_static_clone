@@ -17,7 +17,21 @@ function App() {
           <Card title="boom" img={logo} creator="dsfdsf" time={1} />
           <Card title="boom" img={logo} creator="dsfdsf" time={1} />
           <Card title="boom" img={logo} creator="dsfdsf" time={1} />
-          
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
+          <Card title="boom" img={logo} creator="dsfdsf" time={1} />
         </div>
       </div>
     </div>
