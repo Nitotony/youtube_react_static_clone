@@ -1,16 +1,22 @@
 .card img{
-    width: 200px;
+    width: 320px;
     height: 150px;
+    border-radius: 20px;
+    display: flex;
+    margin: auto;
     
 
 
+}
+p{
+    font-size: small;
 }
 
 .card-img{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: auto;
+ 
     border-radius: 20px;
 }
 
@@ -23,8 +29,10 @@
 }
 .card-body >*{
     margin: 3px;
+    text-align: left;
 }
 .card{
     width: 350px;
     height: 300px;
+    padding: 20px;
 }
